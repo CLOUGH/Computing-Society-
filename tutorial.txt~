@@ -1,5 +1,10 @@
-This is my first line
+<<<<<<< HEAD
+This is my first line - Warren Clough
+=======
+This is the edited first line
+>>>>>>> e2862d4082de64e0818f4962556dbc59be19b30d
 This is my second line
 This is my third line for the second repo
 This line was done on the dev branch
 This is just a line
+This is another change
